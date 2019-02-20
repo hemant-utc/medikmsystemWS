@@ -1,0 +1,5 @@
+<DataBaseConfiguration>
+	<HibernateConfigFile>/hibernate.cfg.xml</HibernateConfigFile>
+	<DescriptionMappingFile>com/medikm/hbm/Case1.hbm.xml</DescriptionMappingFile>
+	<DescriptionClassName>com.medikm.dto.Case1</DescriptionClassName>
+</DataBaseConfiguration>
